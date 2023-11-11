@@ -422,6 +422,11 @@ footer{
 		line-height:21px;
 	}
 
+	.works-text p{
+		font-size:14px;
+		line-height:21px;
+	}
+
 }
 
 /*index以外*/
@@ -554,6 +559,11 @@ footer{
 }
 
 .flavor{
+	text-align: center;
+	padding:5px 0;
+}
+
+.flavor p{
 	text-align: center;
 	padding:5px 0;
 }
