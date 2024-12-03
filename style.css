@@ -266,6 +266,14 @@ p{
 	flex-wrap:wrap;
 }
 
+.article-second{
+	width:100%;
+	max-width:1000px;
+	margin:0 auto;
+	display:flex;
+	padding:0 10px;
+}
+
 .files-container{
 	width:100%;
 	display:block;
