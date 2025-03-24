@@ -17,6 +17,10 @@ body{
     100% {opacity: 1}
 }
 
+.tsumeru{
+	margin-top:-24px;
+}
+
 header{
 	height:25px;
 	background-color:#08084d;
